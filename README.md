@@ -95,15 +95,14 @@ It feels like having a lightweight financial coach in your pocket: no complex se
 
 ## 📱 Screenshots
 
-> _Screenshots to be added after final build. Run the app locally to preview all screens._
+> _Screenshots to added after final build. Run the app locally to preview all screens._
+![WhatsApp Image 2026-04-03 at 19 00 43](https://github.com/user-attachments/assets/7adbc488-050d-40dc-ab14-392e9194151b)
+![WhatsApp Image 2026-04-03 at 18 58 59](https://github.com/user-attachments/assets/00493b97-9695-4777-86bd-457b672aadee)
+![WhatsApp Image 2026-04-03 at 18 58 59 (1)](https://github.com/user-attachments/assets/8e87296b-6ed9-43f6-b262-47313a6d18c0)
+![WhatsApp Image 2026-04-03 at 18 59 00](https://github.com/user-attachments/assets/71659bee-1c7a-4713-8c04-31e0e9b1d153)
+![WhatsApp Image 2026-04-03 at 18 58 59 (2)](https://github.com/user-attachments/assets/0a536b2f-04b4-4db6-9511-7a820b01efb4)
 
-| Dashboard | Transactions | Insights |
-|-----------|-------------|---------|
-| _(coming soon)_ | _(coming soon)_ | _(coming soon)_ |
 
-| Goals | Behavior Coach | Profile |
-|-------|---------------|---------|
-| _(coming soon)_ | _(coming soon)_ | _(coming soon)_ |
 
 ---
 
