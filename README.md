@@ -30,7 +30,7 @@
 
 It feels like having a lightweight financial coach in your pocket: no complex setup, no bank integrations, just intelligent rule-based analysis of your own spending data presented through a premium, dark-themed mobile experience.
 
-> **Built as part of a mobile developer internship assessment** — demonstrating strong product thinking, clean architecture, rich UI/UX, and full-stack integration. Login with test@finly.com / Test123! 
+> **Built as part of a mobile developer internship assessment** — demonstrating strong product thinking, clean architecture, rich UI/UX, and full-stack integration. Login with test@finly.com / Test123! (for complete app with data )
 
 ---
 
